@@ -1,0 +1,11 @@
+calculator/bin/
+calculator/obj/
+calculator/Properties/
+calculator/.vs/
+.vs/
+calculator.sln
+calculator/Form1.Designer.cs
+calculator/Program.cs
+calculator/Form1.resx
+calculator/calculator.csproj.user
+calculator/calculator.csproj
